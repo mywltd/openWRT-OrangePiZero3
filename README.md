@@ -23,7 +23,8 @@
 <img src="https://raw.githubusercontent.com/jym66/openWRT-OrangePiZero3/main/images/openwrt1.png"/>
 </details>
 
-
+## fork新加功能
+**增加了docker支持，加了一些常用插件，移除openclash**
 
 ## 定制固件 [![](https://img.shields.io/badge/-项目基本编译教程-FFFFFF.svg)](#定制固件-)
 1. 首先要登录 Gihub 账号，然后 Fork 此项目到你自己的 Github 仓库
